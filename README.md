@@ -1,5 +1,4 @@
 
-You can view code of application in Online Github Editor
 # Node, Express & SQL project by Paulius Kisonas
 
 ## System requirements
